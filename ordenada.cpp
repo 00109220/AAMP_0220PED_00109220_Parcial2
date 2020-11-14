@@ -15,10 +15,9 @@ node *lista = NULL;
 int main(){
     
     menu();
-    InsertarLista();
-    mostrarLista(lista);
+    
 
-
+    return 0;
 }
 
 void menu(){
